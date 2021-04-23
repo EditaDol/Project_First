@@ -1,12 +1,4 @@
 
-// search bar
-
-document.getElementById('search_button').onclick = function()
-{
-    location.href = document.getElementById("search_button").value;
-};
-
-
 
 //bar index 
 
