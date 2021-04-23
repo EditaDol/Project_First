@@ -1,14 +1,9 @@
-html{width: 100%;
-	height: 100%;
-}
+
 
 body{
   background: white;
   height: auto;
   font-family: "Montserrat";
-	width: 100%;
-	height: 100%;
-	overflow: hiddden;
 }
 
 h1{
